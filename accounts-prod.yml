@@ -4,7 +4,7 @@ accounts:
   message: "Welcome to Production API's"
   contactDetails:
     name: "Production"
-    email: "prod@gmail.com"
+    email: "{cipher}a3800c893a6bafbf2c3904a084e1ea9104a93688ae5a8918c0141d3c32e6df19"
   OnCallSupport:
     - 9832932019
     - 1100022299
