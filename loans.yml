@@ -1,0 +1,11 @@
+build:
+  version: "5.0"
+
+loans:
+  message: "Welcome to piyush bank account related to local API's"
+  contactDetails:
+    name: "Piyush Jain"
+    email: "pjpiyussssssss0712@gmail.com"
+  OnCallSupport:
+    - 6232642872
+    - 8764324576

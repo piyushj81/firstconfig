@@ -1,0 +1,11 @@
+build:
+  version: "5.0"
+
+cards:
+  message: "Welcome to piyush bank account related to prod API's"
+  contactDetails:
+    name: "Production"
+    email: "production@gmail.com"
+  OnCallSupport:
+    - 123456899
+    - 0987654321

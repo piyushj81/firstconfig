@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to piyush bank account related to QA API's"
+  contactDetails:
+    name: "Testing"
+    email: "QA@gmail.com"
+  OnCallSupport:
+    - 123456899
+    - 0987654321

@@ -1,0 +1,10 @@
+build:
+  version: "2.0"
+accounts:
+  message: "Welcome to Production API's"
+  contactDetails:
+    name: "Production"
+    email: "prod@gmail.com"
+  OnCallSupport:
+    - 9832932019
+    - 1100022299
